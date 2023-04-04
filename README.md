@@ -1,7 +1,5 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://user-images.githubusercontent.com/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
-![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
-
+![Banner-dark-mode](https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/10-desktop-wallpapers-ideas-pixel-art-background-cyberpunk-city-art-background.gif)
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
