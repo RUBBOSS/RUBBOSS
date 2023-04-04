@@ -32,9 +32,6 @@
   <a href="rubboss1992@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.frontendmentor.io/profile/RUBBOSS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
 </div>
 
 ###
@@ -88,24 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RUBBOSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RUBBOSS&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RUBBOSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RUBBOSS/RUBBOSS/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ruben">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RUBBOSS/count.svg?"  />
 </div>
 
 ###
