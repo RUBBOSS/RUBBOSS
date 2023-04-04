@@ -32,6 +32,9 @@
   <a href="rubboss1992@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://www.frontendmentor.io/profile/RUBBOSS" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
 </div>
 
 ###
@@ -42,7 +45,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning React.js <br>- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/RUBBOSS) <br>- ⚡ In my free time I am chilling )</p>
+<p align="left">- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning React.js <br>- ⚡ In my free time I am chilling )</p>
 
 ###
 
