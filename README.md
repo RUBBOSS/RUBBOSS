@@ -32,9 +32,10 @@
   <a href="rubboss1992@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/RUBBOSS)](https://www.frontendmentor.io/profile/RUBBOSS)&nbsp;
-</div>
-
+  <a href="https://www.frontendmentor.io/profile/RUBBOSS" target="_blank">
+    <img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" height="25" />
+  </a>
+  
 ###
 
 <div align="center">
