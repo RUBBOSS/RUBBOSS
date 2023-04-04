@@ -42,7 +42,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning React.js <br>- ⚡ In my free time I am chilling )</p>
+<p align="left">- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning React.js <br>- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/RUBBOSS)!.
+<br>- ⚡ In my free time I am chilling )</p>
 
 ###
 
